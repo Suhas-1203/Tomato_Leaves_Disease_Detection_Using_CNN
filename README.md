@@ -135,7 +135,7 @@ The model can identify the following tomato leaf conditions:
 ### Training Results
 - **Training Accuracy**: ~92%
 - **Validation Accuracy**: ~90%
-- **Training Time**: ~15-20 minutes (depending on hardware)
+- **Training Time**: Training time depends on hardware (~15–20 minutes on GPU, longer on CPU).
 - **Model Size**: ~2.5MB (efficient for deployment)
 
 ### Evaluation Metrics
@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **PlantVillage Dataset** for providing the tomato disease images
+- **Dataset derived from PlantVillage (Tomato subset) with augmentation** for providing the tomato disease images
 - **TensorFlow/Keras Team** for the excellent deep learning framework
 - **Agricultural Research Community** for disease classification standards
 - **Open Source Contributors** who make projects like this possible
