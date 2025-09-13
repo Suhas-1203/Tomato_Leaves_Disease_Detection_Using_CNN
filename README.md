@@ -133,8 +133,8 @@ The model can identify the following tomato leaf conditions:
 ## 📈 Model Performance
 
 ### Training Results
-- **Training Accuracy**: ~95%
-- **Validation Accuracy**: ~92%
+- **Training Accuracy**: ~92%
+- **Validation Accuracy**: ~90%
 - **Training Time**: ~15-20 minutes (depending on hardware)
 - **Model Size**: ~2.5MB (efficient for deployment)
 
@@ -204,12 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Agricultural Research Community** for disease classification standards
 - **Open Source Contributors** who make projects like this possible
 
-## 📞 Contact & Support
-
-- **Developer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile]
-- **Project Issues**: [GitHub Issues Link]
 
 ## 📚 References & Resources
 
